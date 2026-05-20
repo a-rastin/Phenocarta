@@ -1,4 +1,5 @@
-# SNOMED CT Markdown Tagger
+# Phenocarta
+## A SNOMED CT Markdown Tagger
 
 A Google Colab notebook that performs **concept recognition and semantic classification** of clinical text written in Markdown, using the official SNOMED CT RF2 release as the reference terminology. Each word in an input document that corresponds to an active SNOMED CT concept is tagged with a semantic category and exported to a structured CSV for downstream analysis.
 
